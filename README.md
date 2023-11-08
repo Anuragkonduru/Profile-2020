@@ -4,7 +4,7 @@ My Profile Made in 2020 .
 
 **To check the final output check the Screenshots or clone this repository and open the index.html file in a browser**
 
-`git clone https://github.com/Shadow-Monarch98/Profile-2020.git`
+`git clone https://github.com/Anuragkonduru/Profile-2020.git`
 
 ## Screenshots:
 
