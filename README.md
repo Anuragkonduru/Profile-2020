@@ -1,10 +1,13 @@
 # Profile-2020
 
-My Profile Made in 2020 .
+My Profile project Made while trying to learn HTML CSS in 2020.
 
-**To check the final output check the Screenshots or clone this repository and open the index.html file in a browser**
+Demo:
+https://profile2020.netlify.app/
 
-`git clone https://github.com/Anuragkonduru/Profile-2020.git`
+Used:
+_HTML_ For Website Structure
+_CSS_ For Styling
 
 ## Screenshots:
 
